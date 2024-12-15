@@ -41,7 +41,7 @@ const teamMembers = [
 const createMemberCard = (member) => {
     const { name, role, email, img } = member;
     return `                <div class="col">
-                    <div class="card mb-3" style="max-width: 540px;">
+                    <div class="card mb-3">
                         <div class="row g-0">
                           <div class="col-12 col-xl-4">
                             <img src="assets/img/${img}" class="img-fluid rounded-start img" alt="${name}">
