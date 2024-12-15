@@ -4,3 +4,22 @@
     box-sizing: border-box;
     font-family: "Fredoka", sans-serif;
 }
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    
+}
+
+h2 {
+    color: #E53170;
+}
+
+.card-text {
+    color: #6ECBF2;
+}
+
+.card {
+    background-color: black;
+    color: white;
+}
